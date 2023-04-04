@@ -7,6 +7,8 @@
   <br>
     Using data science to understand the impacts of weather and climate change around the world.
   </b>
+  <br>
+  <a href="https://hsteptoe.github.io/home/" title="https://hsteptoe.github.io/home/">https://hsteptoe.github.io/home/</a> 
   <br><br>
     <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
     <a href="https://www.r-project.org/" title="R"><img src="https://www.r-project.org/logo/Rlogo.svg" width="75"/></a>
@@ -17,18 +19,3 @@
     <a href="https://docs.conda.io/projects/conda/en/latest/index.html" title="conda"><img style="width:180px; height:50px;" src="https://docs.conda.io/projects/conda/en/latest/_images/conda_logo.svg"/></a>
   <br><br>
 </p>
-
-<!--
-**hsteptoe/hsteptoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
