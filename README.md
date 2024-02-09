@@ -17,7 +17,7 @@
     <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60"/></a>
     <br>
     <a href="https://jupyter.org/" title="jupyter"><img style="width:200px; height:50px;" src="https://docs.jupyter.org/en/latest/_static/jupyter.svg"/></a>
-    <a href="https://docs.conda.io/projects/conda/en/latest/index.html" title="conda"><img style="width:180px; height:50px;" src="https://docs.conda.io/projects/conda/en/latest/_images/conda_logo.svg"/></a>
+    <a href="https://docs.conda.io/projects/conda/en/latest/index.html" title="conda"><img style="width:180px; height:50px;" src="https://docs.conda.io/projects/conda/en/latest/_static/conda_logo_full.svg"/></a>
   <br>
     <a href="https://scitools-iris.readthedocs.io/en/latest/index.html" title="iris"><img src="https://scitools-iris.readthedocs.io/en/latest/_static/iris-logo-title.svg" width="130"/></a>
     <a href="https://www.pymc.io/welcome.html" title="PyMC"><img src="https://www.pymc.io/_static/PyMC.jpg" width="130"/></a>
